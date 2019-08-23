@@ -1,0 +1,305 @@
+#text-4 h3, #text-5 h3, #text-6 h3, #text-nx h3, #gallerysidebar h3, #text-14 h3{    padding: 13px 0;
+
+    border-left: 7px solid #dba430;
+
+    padding-lefT: 20px;     background: #e8e8e8; color: #313131}
+ 
+	.diachi{ background: #e8e8e8;padding: 15px;    font-size: 13px;}
+
+#text-4 .textwidget, #text-6 iframe , #text-nx .textwidget, #text-14 iframe{    padding: 0 15px;}
+
+#text-nx .tm_text{ font-size:12px; color: #000 !important; line-height: 20px;     margin-bottom: 10px; background: url(images/bg-nxet.jpg)  no-repeat left top;text-indent: 13%;}
+
+#text-nx .tm_author{    font-weight: bold;
+
+    font-size: 14px;
+
+    color: #055e1a !important;}
+
+#text-nx .tm_info{font-size: 14px; clear: both;}
+
+.rd_testimonials{ height: 150px !important}
+
+.single_post_related_carousel ul{ padding: 0; margin: 0}
+
+.rd_tm_1 .rd_tm_pager{  margin-top: 0px}
+
+#text-nx .vc_row{ margin-bottom: 10px}
+
+#text-7{ display: none}
+
+#text-9,#text-15 { padding: 5px}
+
+#text-9 ul,#text-15 ul{     padding: 0 10px; margin: 0; overflow: hidden}
+
+#text-9 ul li ,#text-15  ul li{ float: left;} 
+
+#text-9 .textwidget, #text-15 .textwidget{ background: #d6a916;} 
+
+#text-9 H4,#text-15 H4 { margin: 0; padding: 0;     text-align: center;
+
+    color: #fff;
+
+    line-height: 60px;}
+
+#text-9 input[type="email"],#text-15 input[type="email"]{ min-width: 240px; width: 258px;     height: 40px;
+
+    margin-top: 0;}
+
+#text-9 input[type=submit],#text-15 input[type=submit] { background: url(images/email.jpg) no-repeat;     min-width: 21px;
+
+    padding: 9.5px 0px;}
+
+.btnsb{    margin-lefT: -41px;
+
+    z-index: 999;
+
+    position: relative;}
+
+#footer  ul{ padding: 0; margin: 0;}
+
+#footer .widget_nav_menu ul li, .rd_widget_recent_entries li, .rd_widget_recent_entries_f li{	background: url(images/icon-dmuc-ft.png) no-repeat left 12px;    padding-lefT: 15px !important;
+
+}
+
+#footer li{ font-size: 12px}
+
+#footer p{    font-size: 12px;}
+
+.email-ft{ background: url(images/icon-emailft.png) no-repeat left;       padding-lefT: 27px;     padding-bottom: 4px;
+
+    margin-bottom: 10px;}
+
+.single_post_related_carousel .post-attachement{height: 220px;}
+
+.hotlien-ft{ background: url(images/icon-dtft.png) no-repeat left 8px;       padding-lefT: 27px; padding-bottom: 15px}
+
+.address-ft{ background: url(images/icon-adress-dt.png) no-repeat left;       padding-lefT: 27px;     line-height: 17px;}
+
+.left-btft{ float: left;} 
+
+.right-btft{ float: right; overflow: hidden}
+
+.right-btft li{ float: left;}
+
+.right-btft ul{    padding: 0;
+
+    margin: 0; float: right;}
+
+.titleservice a, .loaiphong a{    color: #000;}
+
+.titleservice a:hover{color: #ff7e00;}
+
+.hb_single_room{ width: 1200px; padding: 0 20px;margin: 0 auto;
+
+    background: #fff;}
+
+	table{ width: 100%}
+
+	table, tr, td, th{ border: 1px solid #efefef; padding: 15px;}
+
+.rd_widget_recent_entries li{ border-bottom: none !important}
+
+.rd_widget_recent_entries li a{padding: 5px 0px;
+
+    display: block;
+
+    font-size: 13px;
+
+    border-bottom: none !important;}
+
+.tour{ padding: 0; margin: 0; margin-top: 25px;}
+
+.tour li a:hover{ color: #ff7e00}
+
+.tour li a{ font-size: 13px; color: #000 }
+
+.tour-foodsapa{ margin-bottom: 20px !important}
+
+.langue{float: right;
+
+    line-height: 43px;
+
+    color: #fff;}
+
+#lang_choice_1{border: 1px solid #efefef;
+
+    padding: 3px 10px;}
+
+#dattiectop{ width: 80%; margin: 0 auto}
+
+.dat-tiec{ padding: 0; margin: 0}
+
+.dat-tiec li{margin-bottom: 15px;}
+
+.textdattour{ text-align: center; font-size: 15px;}
+
+/******* css hình anh*********/
+
+.hinh-anh .post-hinhanh{ float: left; }
+
+.hinh-anh{ width: 30.5%; overflow: hidden; float: left;    margin: 0 11px;     margin-bottom: 20px;}
+
+.hinh-anh .post-hinhanh img{height: 200px;}
+
+.hinh-anh h2{font-size: 15px;
+
+    text-align: center;
+
+    margin-top: 82px;
+
+    position: absolute;
+
+    z-index: 99;
+
+    width: 21%; display: none}
+
+.hinh-anh:hover h2{ display: block}
+
+.hinh-anh:hover h2 a{    border: 1px solid #00a652;
+
+    padding: 9px 10px;
+
+    color: #fff;
+
+    background: #055e1a;}
+
+.navigation{ border: none !important}
+
+#envirabox-title, .envira-gallery-wrap .caption{ display: none !important}
+
+.gallery-sidebar{    padding: 0 15px !important; overflow: hidden;}
+
+
+
+.gallery-sidebar li{ width: 30%; floaT: left;margin-right: 12px; border: 1px solid #fff;
+
+     padding-bottom: 0px !important;    margin-bottom: 10px;padding: 3px 3px 0px 3px;}
+
+	.gallery-sidebar li:hover{ border: 1px solid #005b18; padding: 3px 3px 0px 3px;}
+
+.gallery-sidebar img{ height: 52px;}
+
+.gallery-sidebar .li-3{margin-right: 0px;}
+
+.img-service{ width: 30%; float: left;}
+
+.text-service{width: 67%;
+
+    margin-lefT: 3%;
+
+    float: left;}
+
+.text-service h2{    padding: 0;
+
+    margin: 0;}
+
+.service{    overflow: hidden;
+
+    clear: both;
+
+    margin-bottom: 20px;}
+
+.more-link{ display: none}
+
+.langue select#lang_choice_1{    line-height: initial !important; color: #000 !important} 
+
+.col-md-13{ width: 20%; float: left; border-right: 1px solid #efefef;     height: 315px;}
+
+.col-md-14{ width: 70%}
+
+.tieude{    background: #055e1a;
+
+    color: #fff;
+
+    padding: 10px;
+
+    text-align: center;
+
+    text-transform: uppercase;}
+
+.col-md-13 ul li{ list-style:disc}
+
+.noidungphon{ padding-top: 15px}
+
+.phuhopcho{ text-align: center}
+.datphong{ padding: 0; margin: 0}
+.datphong li{width: 46%; float: left;    list-style: none !important;
+    margin-right: 4%;margin-bottom: 10px;}
+.datphong label{ text-transform: uppercase;    color: #fff;}
+.datphong  input[type="text"], .datphong  input[type="tel"]{ width: 90%}
+.wpcf7-form .title h2{    font-size: 20px;
+    line-height: 31px;
+    padding: 0px;
+    margin: 9px 0;
+    text-align: center; color: #ffffff;}
+.wpcf7-form	.bookbtn{ text-align: center}
+.dattour .title h2, .dattour label{    color: #ffffff;}
+.dattour .title h2{    text-align: center;
+    font-size: 21px;
+    line-height: 14px;}
+.phongks h2{ line-height: 15px;}
+.phongks ul, .noidung ul{padding: 0;
+ }
+.phongks .gia, .noidung .gia{ font-weight: bold; font-size: 15px; color: #d01f1f;    margin-bottom: 0px;}
+.phongks ul li,.noidung ul li{ list-style: disc}
+.noidung ul {
+    margin-lefT: 19px;    overflow: hidden;}
+.phongks .readmore1{    background: #dba430;
+    padding: 7px 20px;
+    line-height: 36px; 
+    color: #fbfaf9;
+    border-radius: 5px;
+}
+.phongks .readmore1:hover{ background: #d6b77d; color: #000;}
+.sppks .post-attachement{ width: 40%; float: left;}
+.sppks .noidung{     width: 57%;
+    float: left;
+    margin-lefT: 3%;}
+.sppks h2{    font-size: 18px;
+     line-height: 19px; 
+    padding: 0;
+    margin: 0 0 10px 0;}
+.sppks h3{border-bottom: 1px solid #6b5a56;
+    padding-bottom: 0px;}
+.sppks h3 span{background: #fff;
+    padding-right: 10px;    color: #c43856;}
+	.overviewLayout {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    background: #000;
+    opacity: 0.7;
+    z-index: 9999;
+    top: 0;
+    left: 0;
+    display: none;
+}.popupDatTour {
+    width: 450px;
+    height: auto;
+    position: fixed;
+    background: #64524e;
+    z-index: 99999;
+    top: 32%;
+    left: calc(50% - 200px);
+    display: none;
+    border-radius: 10px;
+}.popupDatTour h4 {
+    margin: 14px auto 0;
+    width: 100%;
+    color: #ffe204;
+    text-align: center;
+    font-size: 22px;
+}.popupDatTour .closePopupAddTour {
+    position: absolute;
+    right: 7px;
+    top: 0;
+}.popupDatTour p {
+    TEXT-ALIGN: center;
+       font-size: 20px;
+    color: #fff;
+    margin: 13px 0;
+    font-weight: bold;
+}
+.popupDatTour	.bookbtn{ text-align: center; padding-bottom: 15px;}
+#dattiectop .datphong label{color: #64524e;}
