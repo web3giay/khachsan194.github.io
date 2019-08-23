@@ -1,6 +1,6 @@
 /*
-Theme Name: TaoDo
-Theme URI: http://www.taodo.com.vn
+Theme Name: Tij
+Theme URI: ok
 */
 	margin: 0;
 	padding: 0;
@@ -825,7 +825,6 @@ input[type=number]::-webkit-inner-spin-button {
 	width:100%;
 	margin:0 auto;
 	position:relative;
-	background:#202024;
 	color:#ccc;
 }
 .footer_wrap {
